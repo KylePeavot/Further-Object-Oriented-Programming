@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ A\ class\ for\ the\ player\ that\ the\ user\ plays\r\n\ Has\ an\ inventory\r\n\r\n\ @author\ (Kyle\ Peavot)\r\n\ @version\ (15/02/2018)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=item
+comment2.target=void\ addItem(Item)
+comment2.text=\r\n\ Adds\ item\ to\ players\ inventory\r\n\ @param\ Item\ item\ item\ to\ be\ added\ to\ inventory\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getInventory()
+comment3.text=\r\n\ returns\ players\ inventory\ as\ an\ array\ list\r\n
+comment4.params=
+comment4.target=java.lang.String\ inventoryToString()
+comment4.text=\r\n\ Prints\ inventory\ out\ as\ a\ string\r\n
+numComments=5

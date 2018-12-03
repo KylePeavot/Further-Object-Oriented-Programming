@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Characters
+comment0.text=\r\n\ Characters\ in\ the\ game\r\n\ Characters\ have\ a\ name\ and\ can\ have\ an\ item\r\n\r\n\ @author\ (Kyle\ Peavot)\r\n\ @version\ (15/02/2018)\r\n
+comment1.params=name\ itemHeld
+comment1.target=Characters(java.lang.String,\ Item)
+comment1.text=\r\n\ Constructor\ with\ two\ parameters.\r\n
+comment2.params=item
+comment2.target=boolean\ take(Item)
+comment2.text=\r\n\ Takes\ item\ from\ a\ character\ \r\n\ If\ successful\ returns\ true,\ if\ not\ returns\ false\ \r\n\ @param\ Item\ item\ the\ item\ to\ be\ taken\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Return\ the\ name\ of\ the\ character\ and\ what\ item\ they're\ holding\r\n
+numComments=4

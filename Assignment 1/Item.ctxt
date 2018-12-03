@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ An\ item\ in\ the\ game.\r\n\ There\ exist\ only\ a\ few\ different\ items.\r\n\ @author\ (Kyle\ Peavot)\r\n\ @version\ (14/02/2018)\r\n
+comment1.params=description
+comment1.target=Item(java.lang.String)
+comment1.text=\r\n\ Constructor\ with\ parameter.\r\n\ Pre-condition\:\ name\ is\ not\ null.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ the\ direction\ name.\r\n
+numComments=3
