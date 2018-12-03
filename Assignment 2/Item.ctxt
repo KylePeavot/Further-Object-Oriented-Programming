@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ An\ item\ in\ the\ game.\r\n\ \r\n\ @author\ Olaf\ Chitil\r\n\ @version\ 2/2/2018\r\n
+comment1.params=description
+comment1.target=Item(java.lang.String)
+comment1.text=\r\n\ Constructor\ with\ description\ and\ weight.\r\n\ Pre-condition\:\ description\ not\ null.\r\n
+comment2.params=
+comment2.target=void\ sane()
+comment2.text=\r\n\ Invariant\:\r\n\ toString\ never\ returns\ null.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ \r\n\ Return\ description.\r\n
+numComments=4
